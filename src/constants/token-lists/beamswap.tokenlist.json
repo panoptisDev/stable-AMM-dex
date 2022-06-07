@@ -1,0 +1,134 @@
+{
+  "name": "Beamswap Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xdecB90662901eAA72DAc77eC0Fd92433c2b822e8/logo.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+      "type": {
+          "name": "official",
+          "description": "official beamswap token list"
+      }
+  },
+  "timestamp": "2022-01-07T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1287,
+      "address": "0xF774C205a48ad0BEf7F62948FB69B31A8440e534",
+      "symbol": "SHARE",
+      "name": "Beamshare Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xF774C205a48ad0BEf7F62948FB69B31A8440e534/logo.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0xC911e922c84A21c0803D8b9480a50d5CdFf61652",
+      "symbol": "MOCK",
+      "name": "Mock Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xC911e922c84A21c0803D8b9480a50d5CdFf61652/logo.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0x9dCca533798Aae4EC78cFEb057cb7745DcDe3048",
+      "symbol": "WGLMR",
+      "name": "Wrapped Glimmer",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x9dCca533798Aae4EC78cFEb057cb7745DcDe3048/logo.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0xaBf3Cb26780a1882215621E4d9CEbCb6ca9fc9ef",
+      "symbol": "GLINT",
+      "name": "Beamswap Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xaBf3Cb26780a1882215621E4d9CEbCb6ca9fc9ef/logo.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0x65C281140d15184de571333387BfCC5e8Fc7c8dc",
+      "symbol": "USDC",
+      "name": "USDC Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x65C281140d15184de571333387BfCC5e8Fc7c8dc/logo.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0xe7b932a60E7d0CD08804fB8a3038bCa6218a7Fa2",
+      "symbol": "BUSD",
+      "name": "BUSD Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xe7b932a60E7d0CD08804fB8a3038bCa6218a7Fa2/logo.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0x8cbF5008fa8De192209c6A987D0b3C9c3c7586a6",
+      "symbol": "ETH",
+      "name": "ETH Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x8cbF5008fa8De192209c6A987D0b3C9c3c7586a6/logo.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0xD41A9bc8Df1Fc7520d0491bD627ea399b777C2f2",
+      "symbol": "BNB",
+      "name": "BNB Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xD41A9bc8Df1Fc7520d0491bD627ea399b777C2f2/logo.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0xEf4BC0F5a3870925157Ce9F5e86F8Ac25bE49f73",
+      "symbol": "DAI",
+      "name": "DAI Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xEf4BC0F5a3870925157Ce9F5e86F8Ac25bE49f73/logo.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0xe87d5db6D8E884EA4128b9Fb2dd7c2961C67a409",
+      "symbol": "WBTC",
+      "name": "WBTC Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xe87d5db6D8E884EA4128b9Fb2dd7c2961C67a409/logo.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0x523D8e4Bbb37418f92A74d6D4bA1e225a0A2E176",
+      "symbol": "USDT",
+      "name": "USDT Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x523D8e4Bbb37418f92A74d6D4bA1e225a0A2E176/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "symbol": "WGLMR",
+      "name": "Wrapped Glimmer",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xAcc15dC74880C9944775448304B263D191c6077F/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xcd3B51D98478D53F4515A306bE565c6EebeF1D58",
+      "symbol": "GLINT",
+      "name": "Beamswap Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xcd3B51D98478D53F4515A306bE565c6EebeF1D58/logo.png"
+    },{
+      "chainId": 1284,
+      "address": "0x4204cAd97732282d261FbB7088e07557810A6408",
+      "symbol": "SHARE",
+      "name": "Beamshare Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x4204cAd97732282d261FbB7088e07557810A6408/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 6,
+    "patch": 0
+  }
+}
